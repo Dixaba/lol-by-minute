@@ -9,7 +9,7 @@ Small bookmarklet to extract gold-by-minute data from LeagueOfGraphs match page 
 
 ## Usage
 
-1) Open [LeagueOfGraphs website](leagueofgraphs.com).
+1) Open [LeagueOfGraphs website](https://www.leagueofgraphs.com).
 2) Find any summoner you want.
 3) Open page with detailed match info.
 4) Select needed match participant.
