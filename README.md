@@ -1,6 +1,6 @@
 # lol-by-minute
 
-Small bookmarklet to extract gold-by-minute data from LeagueOfGraphs match page in spreadsheet-friendly form.
+Small bookmarklet to extract gold-by-minute data from LeagueOfGraphs match page in spreadsheet-friendly form (as a single column).
 
 ## "Installation"
 
