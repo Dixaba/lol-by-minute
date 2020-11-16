@@ -1,6 +1,7 @@
 # lol-by-minute
 
-Small bookmarklet to extract gold-by-minute data from LeagueOfGraphs match page in spreadsheet-friendly form (as a single column).
+Small bookmarklet to extract graph data from LeagueOfGraphs match page in spreadsheet-friendly form (as a single column).
+Note: not all graphs have per-minute values!
 
 ## "Installation"
 
@@ -14,4 +15,5 @@ Small bookmarklet to extract gold-by-minute data from LeagueOfGraphs match page 
 3) Open page with detailed match info.
 4) Select needed match participant.
 5) Use bookmark you created.
-6) Big ligh rectangle will appear. Click on it to copy gold values to your clipboard. You will get notification if data was copied successfully.
+   1) If it's first-time usage - you will need to choose graph you want to extract data from. Just click on any highlighted graph. Your choise will be saved, so you need to choose only once.
+   2) If you already selected graph in previous bookmarklet invocation - you will be greeted with huge light rectangle. Click on it to copy data to clipboard. If you need data from another graph - there's "small button" in bottom right corner.
